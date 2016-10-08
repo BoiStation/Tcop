@@ -1,0 +1,6 @@
+
+Copyright 2015 lapsee.cn. All rights reserved.
+Support: http://www.lapsee.cn
+License: http://www.lapsee.cn/license
+Revision: 1.0Beta
+Date: 2015-02
