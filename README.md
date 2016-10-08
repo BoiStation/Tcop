@@ -1,2 +1,0 @@
-# Tcop
-A Shop Project.
